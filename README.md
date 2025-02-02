@@ -4,3 +4,16 @@ Most existing traffic video datasets e.g. the Waymo Open Motion Dataset, are col
 
 # Download
 [Huggingface DAVE](https://huggingface.co/datasets/XijunWang/DAVE)
+
+
+## Tasks
+
+# Detection
+
+# Tracking
+
+# Spatiotemporal Action Localization
+
+#Language-Visual Moment retrieval
+
+#Multi-label Video Action Recognition
